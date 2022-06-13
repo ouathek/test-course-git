@@ -1,1 +1,5 @@
 print("Hello Friend")
+
+print("new line")
+
+print("new line2")
